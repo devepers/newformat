@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: black;
+  background: white;
 }
 h1 {
   text-align: center;
@@ -22,7 +22,7 @@ h1 {
   background: #cc0000;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box1 h2 {
   margin: 0;
@@ -36,7 +36,7 @@ h1 {
   background: #ff0000;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box2 h2 {
   margin: 0;
@@ -50,7 +50,7 @@ h1 {
   background: #ff3333;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box3 h2 {
   margin: 0;
@@ -64,7 +64,7 @@ h1 {
   background: #ff6666;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box4 h2 {
   margin: 0;
@@ -78,7 +78,7 @@ h1 {
   background: #ff9999;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box5 h2 {
   margin: 0;
@@ -92,7 +92,7 @@ h1 {
   background: #ffcccc;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box6 h2 {
   margin: 0;
@@ -106,7 +106,7 @@ h1 {
   background: #cc6600;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box7 h2 {
   margin: 0;
@@ -120,7 +120,7 @@ h1 {
   background: #ff8000;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box8 h2 {
   margin: 0;
@@ -134,7 +134,7 @@ h1 {
   background: #ff9933;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box9 h2 {
   margin: 0;
@@ -148,7 +148,7 @@ h1 {
   background: #ffb266;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box10 h2 {
   margin: 0;
@@ -162,7 +162,7 @@ h1 {
   background: #ffcc99;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box11 h2 {
   margin: 0;
@@ -176,7 +176,7 @@ h1 {
   background: #ffe5cc;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box12 h2 {
   margin: 0;
@@ -190,7 +190,7 @@ h1 {
   background: #cccc00;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box13 h2 {
   margin: 0;
@@ -204,7 +204,7 @@ h1 {
   background: #ffff00;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box14 h2 {
   margin: 0;
@@ -218,7 +218,7 @@ h1 {
   background: #ffff33;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box15 h2 {
   margin: 0;
@@ -232,7 +232,7 @@ h1 {
   background: #ffff66;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box16 h2 {
   margin: 0;
@@ -246,7 +246,7 @@ h1 {
   background: #ffff99;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box17 h2 {
   margin: 0;
@@ -260,7 +260,7 @@ h1 {
   background: #ffffcc;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box18 h2 {
   margin: 0;
@@ -274,7 +274,7 @@ h1 {
   background: #66cc00;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box19 h2 {
   margin: 0;
@@ -288,7 +288,7 @@ h1 {
   background: #80ff00;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box20 h2 {
   margin: 0;
@@ -302,7 +302,7 @@ h1 {
   background: #99ff33;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box21 h2 {
   margin: 0;
@@ -316,7 +316,7 @@ h1 {
   background: #b2ff66;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box22 h2 {
   margin: 0;
@@ -330,7 +330,7 @@ h1 {
   background: #ccff99;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box23 h2 {
   margin: 0;
@@ -344,7 +344,7 @@ h1 {
   background: #e5ffcc;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box24 h2 {
   margin: 0;
@@ -358,7 +358,7 @@ h1 {
   background: #6600cc;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box25 h2 {
   margin: 0;
@@ -372,7 +372,7 @@ h1 {
   background: #7f00ff;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box26 h2 {
   margin: 0;
@@ -386,7 +386,7 @@ h1 {
   background: #9933ff;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box27 h2 {
   margin: 0;
@@ -400,7 +400,7 @@ h1 {
   background: #b266ff;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box28 h2 {
   margin: 0;
@@ -414,7 +414,7 @@ h1 {
   background: #cc99ff;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box29 h2 {
   margin: 0;
@@ -428,7 +428,7 @@ h1 {
   background: #e5ccff;
   display: grid;
   box-sizing: border-box;
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .container .box30 h2 {
   margin: 0;
